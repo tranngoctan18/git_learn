@@ -160,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706084750893</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="đây là commit thứ 9">
+      <option name="closed" value="true" />
+      <created>1706085221422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706085221422</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +231,8 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="3rd commit" />
     <MESSAGE value="5th commmit (after reset to 4th commit)" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th commmit (after reset to 4th commit)" />
+    <MESSAGE value="đây là commit thứ 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="đây là commit thứ 9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject_pipenv$manage.coverage" NAME="manage Coverage Results" MODIFIED="1706001191576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
