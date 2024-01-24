@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41fa2a60-96b9-438d-921a-4ed7054ffd4f" name="Changes" comment="5th commmit (after reset to 4th commit)">
-      <change beforePath="$PROJECT_DIR$/new_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_file.py" afterDir="false" />
-    </list>
+    <list default="true" id="41fa2a60-96b9-438d-921a-4ed7054ffd4f" name="Changes" comment="5th commmit (after reset to 4th commit)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,8 +25,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Trần Ngọc Tân &lt;tranngoctan18@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="MIXED" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
